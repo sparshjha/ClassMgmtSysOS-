@@ -182,7 +182,7 @@ Create `serviceAccountKey.json` at the root of `backend-classmgmt`
 
 ```
 FIREBASE_API_KEY=firebase_api_key
-BASE_URL=localhost:5173
+BASE_URL=http://localhost5173
 VITE_APP_ENV=development
 ```
 
@@ -207,6 +207,15 @@ We welcome contributions from the community!
 * Create a new branch (`feature/my-feature`)
 * Commit your changes
 * Open a Pull Request
+
+---
+
+## 📌 Roadmap
+
+* Add real-time chat feature
+* Add AI-based attendance tracker
+* Integrate deployment on Vercel/Render
+* Add dark mode for frontend
 
 ---
 
